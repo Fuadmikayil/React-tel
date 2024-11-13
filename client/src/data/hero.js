@@ -1,6 +1,3 @@
-import  img1 from "../assets/demo.webp";
-import  img2 from "../assets/demo2.jpeg";
-import  img3 from "../assets/demo3.jpeg";
 
 export const hero = [
     {
